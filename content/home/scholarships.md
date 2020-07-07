@@ -1,0 +1,47 @@
++++
+# Accomplishments widget.
+widget = "Scholarships"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 50  # Order that this section will appear.
+
+title = "Scholarships"
+subtitle = ""
+
+# Date format
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
+
+# Accomplishments.
+#   Add/remove as many `[[item]]` blocks below as you like.
+#   `title`, `organization` and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  organization = "Huawei Korea"
+  #organization_url = "https://www.coursera.org"
+  title = "Blue lighthouse scholarship"
+  url = ""
+  #certificate_url = "https://www.coursera.org"
+  date_start = "2019-04"
+  date_end = ""
+  description = "Scholarship for 20 undergraduate students in Korea majoring in IT"
+
+[[item]]
+  organization = "SoongSil Univ."
+  organization_url = "https://ssu.ac.kr/"
+  title = "Dean's list"
+  #url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  #certificate_url = "https://www.edx.org"
+  #date_start = "2018-03-01"
+  #date_end = ""
+  description = """
+  * 2019-2 (Summa cum laude. GPA: 4.2/4.5)
+  * 2019-1
+  * 2018-2
+  * 2017-1
+  * 2015-1
+  """
+
++++
