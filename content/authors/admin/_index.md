@@ -29,7 +29,7 @@ education:
   courses:
   - course: M.S in Computer Science
     institution: Korea Advanced Institute of Science and Technology
-    year: Mar. 2020 ~ Present
+    year: Now
   - course: B.S in Computer Science & Engineering
     institution: SoongSil University
     year: Mar. 2015 ~ Feb. 2020
