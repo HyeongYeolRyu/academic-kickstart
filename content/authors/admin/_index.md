@@ -10,12 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student in Computer Science
+role: M.S Student
 
 # Organizations/Affiliations
 organizations:
 - name: Korea Advanced Institute of Science and Technology
   url: "https://www.kaist.ac.kr/kr/"
+- name: SGVR Lab
+  url: "https://sgvr.kaist.ac.kr/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Reinforcement Learning and Robotics.
@@ -27,8 +29,8 @@ interests:
 
 education:
   courses:
-  - course: M.S in Computer Science
-    institution: Korea Advanced Institute of Science and Technology
+  - course: M.S in School of Computing
+    institution: KAIST
     year: Now
   - course: B.S in Computer Science & Engineering
     institution: SoongSil University
