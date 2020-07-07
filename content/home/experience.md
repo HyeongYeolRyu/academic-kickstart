@@ -22,11 +22,10 @@ date_format = "Jan 2006"
   company = "STUDYMAX"
   company_url = "http://www.studymax.kr/"
   location = "Korea, republic of"
-  date_start = "Mar 2018"
-  date_end = "Aug 2018"
+  date_start = "2018-03-01"
+  date_end = "2018-08-01"
   description = """
   at Technical Research Institute
-
   * Testing software in web/mobile applications
   * Identifying service errors in three servers (Dev./ Q.A/ Live)
   """
