@@ -14,7 +14,7 @@ role: M.S Student
 
 # Organizations/Affiliations
 organizations:
-- name: Korea Advanced Institute of Science and Technology
+- name: Korea Advanced Institute of Science and Technology (KAIST)
   url: "https://www.kaist.ac.kr/kr/"
 - name: SGVR Lab
   url: "https://sgvr.kaist.ac.kr/"
