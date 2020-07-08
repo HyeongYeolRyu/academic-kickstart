@@ -69,4 +69,4 @@ email: "hy.ryu@kaist.ac.kr"
 # - Visitors
 ---
 
-I am a graduate student in computer science at the KAIST SGVR Lab. My research interests include Reinforcement Learning and Robotics. 
+I am a M.S student in computer science at the Korea Advanced Institute of Science and Technology (KAIST) SGVR Lab. My research interests include Reinforcement Learning and Robotics. 
