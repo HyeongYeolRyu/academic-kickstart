@@ -69,4 +69,4 @@ email: "hy.ryu@kaist.ac.kr"
 # - Visitors
 ---
 
-I am M.S student advised by Prof. [Sung-Eui Yoon](https://sgvr.kaist.ac.kr/~sungeui/) at Korea Advanced Institute of Science and Technology (KAIST) SGVR Lab. My research interests include Reinforcement Learning and Robotics. 
+I am a M.S student in computer science at Korea Advanced Institute of Science and Technology (KAIST) SGVR Lab. My research interests include Reinforcement Learning and Robotics. 
