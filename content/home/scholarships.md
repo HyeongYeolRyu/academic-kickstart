@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   description = "Scholarship for 20 undergraduate students in Korea majoring in IT"
 
 [[item]]
-  organization = "SoongSil Univ."
+  organization = "SoongSil University"
   organization_url = "https://ssu.ac.kr/"
   title = "Dean's list"
   url = ""

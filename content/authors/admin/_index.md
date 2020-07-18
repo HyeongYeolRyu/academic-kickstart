@@ -34,8 +34,7 @@ education:
     year: Now
   - course: B.S in Computer Science & Engineering
     institution: SoongSil University
-    year: Mar. 2015 ~ Feb. 2020 
-    (Summa cum laude. GPA 4.2/4.5)
+    year: Mar. 2015 ~ Feb. 2020   (Summa cum laude. GPA 4.2/4.5)
     
 
 # Social/Academic Networking
