@@ -38,7 +38,6 @@ date_format = "Jan 2006"
   date_end = "2019-09-01"
   description = """
   
-  * 2019-2 (Summa cum laude. GPA: 4.2/4.5)
   * 2019-1
   * 2018-2
   * 2017-1
